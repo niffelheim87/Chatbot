@@ -1,0 +1,71 @@
+{
+    "intents": [
+      {
+        "tag": "IES_Serra_Perenxisa",
+        "patterns": [
+          "¿Cuál es el código del instituto?",
+          "¿Qué código tiene el IES Serra Perenxisa?",
+          "¿Qué código es el 46019015?"
+        ],
+        "responses": [
+          "El código del IES Serra Perenxisa es 46019015."
+        ]
+      },
+      {
+        "tag": "Direccion",
+        "patterns": [
+          "¿Dónde está el IES Serra Perenxisa?",
+          "¿Cuál es la dirección del IES Serra Perenxisa?",
+          "Dirección del IES Serra Perenxisa"
+        ],
+        "responses": [
+          "La dirección del IES Serra Perenxisa es CL CORONA D'ARAGÓ 1, TORRENT, 46900."
+        ]
+      },
+      {
+        "tag": "Telefono",
+        "patterns": [
+          "¿Cuál es el teléfono del IES Serra Perenxisa?",
+          "Teléfono IES Serra Perenxisa",
+          "¿Dónde puedo llamar para contactar con el IES Serra Perenxisa?"
+        ],
+        "responses": [
+          "El teléfono del IES Serra Perenxisa es 961206090."
+        ]
+      },
+      {
+        "tag": "Fax",
+        "patterns": [
+          "¿Cuál es el fax del IES Serra Perenxisa?",
+          "Fax IES Serra Perenxisa",
+          "Número de fax del IES Serra Perenxisa"
+        ],
+        "responses": [
+          "El fax del IES Serra Perenxisa es 961206091."
+        ]
+      },
+      {
+        "tag": "Correo",
+        "patterns": [
+          "¿Cuál es el correo electrónico del IES Serra Perenxisa?",
+          "Correo IES Serra Perenxisa",
+          "Dirección de correo del IES Serra Perenxisa"
+        ],
+        "responses": [
+          "El correo electrónico del IES Serra Perenxisa es 46019015@edu.gva.es."
+        ]
+      },
+      {
+        "tag": "Pagina_Web",
+        "patterns": [
+          "¿Cuál es la página web del IES Serra Perenxisa?",
+          "Página web del IES Serra Perenxisa",
+          "¿Dónde puedo encontrar la web del IES Serra Perenxisa?"
+        ],
+        "responses": [
+          "La página web del IES Serra Perenxisa es https://portal.edu.gva.es/46019015/"
+        ]
+      }
+    ]
+  }
+  
