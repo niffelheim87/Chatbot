@@ -1,0 +1,153 @@
+{
+  "intents": [
+    {
+      "tag": "Contacto",
+      "patterns": [
+        "¿Qué información hay sobre contacto?"
+      ],
+      "responses": [
+        "46019015@edu.gva.es",
+        "Enviant un correu electrnic a: 46019015.info@edu.gva.es",
+        "FAX : 961206091",
+        "y envalo firmado junto con el DNI del representante legal (padre/madre/tutor) a 46019015@edu.gva.es. En unos das recibirs un correo electrnico de la Conselleria de Educacin la contrasea e instrucciones.",
+        "Enviando un correo electrnico a: 46019015.info@edu.gva.es",
+        "i envial signat junt el DNI del representant legal (pare/mare/tutor) a 46019015@edu.gva.es. En uns dies rebrs un correu electrnic de la Consellera dEducaci amb la contrasenya i les instruccions.",
+        "2022-1-ES01-KA121-VET-000057141",
+        "E-mail: 46019015.secretaria@edu.gva.es",
+        "Telfono : 961206090",
+        "46019015.ctic@edu.gva.es",
+        "46019015.secretaria@edu.gva.es",
+        "Telfon : 961206090"
+      ]
+    },
+    {
+      "tag": "Páginas Web",
+      "patterns": [
+        "¿Qué información hay sobre páginas web?"
+      ],
+      "responses": [
+        "http://www.dmae.upct.es/~juan/matematicas.htm",
+        "https://areatablet.wordpress.com/",
+        "http://www.ceice.gva.es/doc046/gen/es/tasas.asp?idf=TITULOS",
+        "https://ceice.gva.es/es/web/formacion-profesional/pruebas-de-acceso-a-ciclos-formativos",
+        "https://media.upv.es/#/catalog/channel/eda03965-19d6-1a4e-abaf-cf5b04ce1a6e",
+        "http://www.intersindical.org/escola/activitat/9081",
+        "https://portal.edu.gva.es/46019015/",
+        "http://cefire.edu.gva.es/sfp/index.php?usuario=formacion",
+        "http://www.ceice.gva.es/doc046/gen/val/tasas.asp?idf = ADMIN",
+        "http://www.apuntesmareaverde.org.es/",
+        "http://www.ceice.gva.es/doc046/gen/val/tasas.asp?idf=TITULOS",
+        "http://librosmareaverde.tk/",
+        "http://recursostic.educacion.es/secundaria/edad/",
+        "http://capileiraticrecursos.wikispaces.com/",
+        "http://www.factoriadeltutor.com",
+        "http://www.competenciasbasicashuelva.net/index.php?option=com_content&view=article&id=58&Itemid=28",
+        "http://www.ceice.gva.es/doc046/gen/es/tasas.asp?idf=ADMIN",
+        "https://ceice.gva.es/doc046/gen/es/tasas.asp?idf=PRUEBAS",
+        "https://ceice.gva.es/va/web/formacion-profesional/subvencions-alumnat-fp",
+        "https://www.youtube.com/watch?v=Oy_e4N-vMvM",
+        "https://www.docv.gva.es/datos/2015/11/18/pdf/2015_9263.pdf",
+        "http://www.ceice.gva.es/doc046/gen/val/tasas.asp?idf=ADMIN",
+        "http://www.ceice.gva.es/va/web/formacion-profesional/presentacion-y-calendario",
+        "http://es.slideshare.net/diarca24/cmo-programar-y-evaluar-por-competencias-presentation"
+      ]
+    },
+    {
+      "tag": "Ubicación",
+      "patterns": [
+        "¿Qué información hay sobre ubicación?"
+      ],
+      "responses": [
+        "Ciutat : TORRENT",
+        "Adrea : CL CORONA D'ARAG 1",
+        "Nom d'usuari o adrea electrnica",
+        "Adrea :",
+        "Ciudad : TORRENT",
+        "Codi Postal : 46900"
+      ]
+    },
+    {
+      "tag": "Educación",
+      "patterns": [
+        "¿Qué información hay sobre educación?"
+      ],
+      "responses": [
+        "PREMIOS De FP",
+        "Batxillerat.",
+        "per a accedir a la admisi de Batxillerat a admiNOVA.",
+        "Grado Superior.",
+        "Grau Superior Desenvolupament d'Aplicacions Multiplataforma",
+        " Intelligncia Artificial i Big data",
+        "La admisin tanto para Grado Bsico, Medio y Superior como para los Cursos de Especializacin ser del 24 de mayo al 3 de junio.",
+        "informa que sha obert el termini per a la matrcula parcial en cicles formatius de Grau Mitj i Grau Superior. Aquelles persones interessades a cursar mduls solts poden consultar el document adjunt, on es detallen les places vacants disponibles en el nostre centre.",
+        "2 ESO",
+        "Informaci completa sobre l'admissi d'ESO i Batxillerat",
+        "Admissi i matrcula per a FP (Grau Bsic, Grau Mitj, Grau Superior i Cursos d'especialitzaci)",
+        "Grau Superior.",
+        "(Cap d'estudis d'ESO)",
+        "Resultados de las baremaciones de subvenciones de FP",
+        "Alexis Albelda Tud (Cap d'estudis d'ESO)",
+        "Asistente telemtico para la admisin de FP",
+        "3 ESO",
+        "Convocatria Alumnat Grau Superior",
+        "Assistent telemtic per a l'admissi d'FP",
+        "El alumnado que desee continuar sus estudios de la ESO en el IES Serra Perenxisa y provengan de uno centro adscrito, debern confirmar su plaza del 6 al 9 de mayo (esta confirmacin impedir participar en la admisin a otros centros).",
+        "Jefe de Estudios (ESO y Bachillerato):",
+        "Grau Superior Assistncia a la Direcci",
+        "Alexis Albelda Tud (Jefe de estudios de ESO)",
+        "Batxillerat",
+        "La admisin tanto para la ESO como para Bachillerato ser del 4 al 10 de junio.",
+        "para acceder a admisin de ESO en admiNOVA.",
+        "(Jefa de estudios de ESO)",
+        "para acceder a admisin de Bachillerato en admiNOVA.",
+        "Participaci en ERASMUS + KA102 \"Internacionalitzaci, innovaci, Ocupaci i FP en Alternana \"",
+        "El dilluns 30 de setembre a les 18.00 realitzarem la jornada de presentaci dels nous cursos despecialitzaci que arranquen en lIES Serra Perenxisa.  Ciberseguretat en Entorns de les Tecnologies de la Informaci Intelligncia Artificial i Big data No et perdes la jornada de presentaci destos cursos!  Tesperem el dilluns 30 de setembre a ",
+        "Informaci completa sobre l'admissi d'FP",
+        "Asistente telemtico para la admisin de ESO y Bachillerato",
+        "Admisin y matrcula para FP (Grado Bsico, Grado Medio, Grado Superior y Cursos de especializacin)",
+        "ttol de Batxillerat, ttol de Tcnic, ttol de Tcnic Superior",
+        "En el segent quadre es mostren totes les dates relacionades amb el procediment d'admissi per a ESO i Batxillerat.",
+        ": Directori de continguts de Matemtiques en ESO i Batxillerat.",
+        "LIES Serra Perenxisa informa que sha obert el termini per a la matrcula parcial en cicles formatius de Grau Mitj i Grau Superior. Aquelles persones interessades a cursar mduls solts poden consultar el document adjunt, on es detallen les places vacants disponibles en el nostre centre. Places disponibles:",
+        "duplicat del ttol de Graduat d'ESO",
+        "L'alumnat que desitge continuar els seus estudis de l'ESO en l'IES Serra Perenxisa i provinguen d'un centre adscrit, hauran de confirmar la seua plaa del 6 al 9 de maig (esta confirmaci impedir participar en l'admissi a altres centres).",
+        "La valoraci de la sollicitud d'admissi per a ESO i batxillerat es guiar por el segent barem:",
+        "En el siguiente cuadro se muestran todas las fechas relacionadas cono el procedimiento de admisin para ESO y Bachillerato.",
+        "Grau Superior Administraci de Sistemes Informtics en Xarxa",
+        "Assistent telemtic per a l'admissi d'ESO i Batxillerat",
+        "Para las pruebas de acceso a Ciclos de Grado Medio y Grado Superior, se debe presentar el DNI, NIE o Pasaporte para la identificacin.",
+        "4 ESO",
+        "En el caso pago de tasas para solicitud del ttulo de Bachillerato, ttulo de Tcnico, ttulo de Tcnico Superior o duplicado del ttulo de Graduado de ESO puedes imprimir el modelo 046 aqu:",
+        "Nuevos cursos de especializacin de FP:",
+        "per a accedir a admissi de Batxillerat a admiNOVA.",
+        "Grau Superior Administraci i Finances",
+        "Ya est disponible en los tablones de anuncios del centro la relacin de personas admitidas y excluidas en la convocatoria de subvenciones de FP del curso 2023-2024 para que el alumnado pueda realizar las alegaciones pertinentes. El plazo de alegaciones finaliza el 13 de junio.",
+        "per a accedir a la admisi d'ESO a admiNOVA.",
+        "El lunes 30 de septiembre a las 18:00 realizaremos la jornada de presentacin de los nuevos cursos de especializacin que arrancan en el IES Serra Perenxisa.  Ciberseguridad en Entornos de las Tecnologas de la Informacin Inteligencia Artificial y Big Data No te pierdas la jornada de presentacin de estos cursos!  Te esperamos el ",
+        "L'admissi tant per a Grau Bsic, Mitj i Superior com per als Cursos d'Especialitzaci ser del 24 de maig al 3 de juny.",
+        "Admissi i matrcula per a ESO i Batxillerat  IES Serra Perenxisa",
+        "Bachillerato",
+        "La valoraci de la sollicitud d'admissi per a ESO i batxillerat es guiar pel segent barem:",
+        "Dirigida a lalumnat de Cicles Formatius de Grau Superior 2024-25: Oportunitat per tal de fer prctiques professionals en empreses europees, augmentant les seues competncies internacionals.",
+        "La valoracin de la solicitud de admisin para ESO y bachillerato se guiar miedo el siguiente baremo:",
+        "Grau Superior Desenvolupament d'Aplicacions Web",
+        "Informacin completa sobre la admisin de FP",
+        "Projectes Europeus       lbums                 Curs 2018/2019 Participaci en ERASMUS + KA102 Internacionalitzaci, innovaci, Ocupaci i FP en Alternana  Mobilitats aLondres / Riga/ Martina Franca/ Bolonya /Anzola del lEmilia/ Arezzo Enguany participema ligual quecursos ",
+        "per a accedir a admissi d'ESO a admiNOVA.",
+        "Admissi i matrcula per a ESO i Batxillerat",
+        "El lunes da 17 de junio, nuestro centro fue invitado a la entrega de premios de FP realizada en Alicante por dos motivos. Por un lado nuestra alumna de Sistemas Microinformticos y redes Leidy Johana Ruiz recibi el premio extraordinario en la familia Informtica y Comunicaciones. Por otro lado lo Serra Perenxisa fue condecorado con ",
+        "Admisin y matrcula para ESO y Bachillerato  IES Serra Perenxisa",
+        "IES Serra Perenxisa  Centre Pblic d'ESO, BATXILLERAT i FORMACI PROFESSIONAL",
+        "En el segent quadre es mostren totes les dates relacionades con el procediment d'admissi per a ESO i Batxillerat.",
+        "Centre Pblic d'ESO, BATXILLERAT i FORMACI PROFESSIONAL",
+        "Ciclo de Grado Superior:",
+        "Admisin y matrcula para ESO y Bachillerato",
+       "Segn la normativa vigente (art. 40.5.d) del Decreto 195/2022, del Consell y la Ley Orgnica 9/1983 de 15 de julio, reguladora del derecho de reunin) que determina el procedimiento para ejercer el derecho de inasistencia a clase del alumnado a partir de 3 de ESO, los centros docentes tendrn que comunicar a los padres, madres, ",
+        "Ayudas al Transporte (ESO)",
+        "Informacin completa sobre la admisin de ESO y Bachillerato",
+        "El IES Serra Perenxisa informa que se ha abierto el plazo para la matrcula parcial en ciclos formativos de Grado Medio y Grado Superior. Aquellas personas interesadas en cursar mdulos sueltos pueden consultar el documento adjunto, donde se detallan las plazas vacantes disponibles en nuestro centro. Plazas disponibles:",
+        "Cap d'Estudis (ESO i Batxillerat):"
+      ]
+    }
+  ]
+}
