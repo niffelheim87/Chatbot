@@ -1,0 +1,50 @@
+[
+    {
+        "user": "Miguel",
+        "conversation": [
+            {
+                "Yo": "hola"
+            },
+            {
+                "Bot": "buenos días"
+            },
+            {
+                "Yo": "adios"
+            }
+        ]
+    },
+    {
+        "user": "joselito12",
+        "conversation": [
+            {
+                "Yo": "dasfed@#~#€á¨p--sd"
+            },
+            {
+                "Bot": "No te entiendo"
+            },
+            {
+                "Yo": "%&&$·\"·&%"
+            },
+            {
+                "Bot": "Adiós"
+            }
+        ]
+    },
+    {
+        "user": "dani",
+        "conversation": [
+            {
+                "Yo": "Dónde se encuentra el instituto?"
+            },
+            {
+                "Bot": "El instituto se encuentra en la calle ..."
+            },
+            {
+                "Yo": "Bot: gracias"
+            },
+            {
+                "Bot": "Un placer"
+            }
+        ]
+    }
+]
