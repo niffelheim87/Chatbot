@@ -20,7 +20,7 @@ nltk.download('punkt_tab')
 nltk.download('wordnet')
 
 # Cargar el modelo
-model = load_model("chatbot_model_que_funciona_bak.h5")  # Cambia "chatbot_model_que_funciona_bak.h5" por tu archivo de modelo real
+model = load_model("chatbot_model_bak.h5")  # Cambia "chatbot_model_que_funciona_bak.h5" por tu archivo de modelo real
 
 # Cargar los datos de intenciones
 intents = json.load(open('output.json'))  # Cambia 'output.json' por tu archivo real
