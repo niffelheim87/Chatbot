@@ -1,0 +1,126 @@
+{
+  "intents": [
+    {
+      "tag": "contacto",
+      "patterns": [
+        "Como puedo contactar con el centro?",
+        "Cuales son los datos de contacto del centro?",
+        "Tienen telefono o email?",
+        "contacto"
+      ],
+      "responses": [
+        "Puedes contactar con nosotros a traves de los siguientes medios:\n- Correo electronico: 46019015@edu.gva.es\n- FAX: 961206091\n- E-mail: 46019015.secretaria@edu.gva.es\n- Telefono: 961206090"
+      ]
+    },
+    {
+      "tag": "correo",
+      "patterns": [
+        "Cual es el correo del centro?",
+        "Como puedo enviar un email al centro?",
+        "correo"
+      ],
+      "responses": [
+        "Correo del centro: 46019015@edu.gva.es\nE-mail: 46019015.secretaria@edu.gva.es"
+      ]
+    },
+    {
+      "tag": "fax",
+      "patterns": [
+        "Tienen fax?",
+        "Cual es el fax del centro?",
+        "fax"
+      ],
+      "responses": [
+        "El numero de fax del centro es: 961206091"
+      ]
+    },
+    {
+      "tag": "telefono",
+      "patterns": [
+        "Cual es el telefono del centro?",
+        "Tienen telefono?",
+        "Numero de telefono"
+      ],
+      "responses": [
+        "El telefono del centro es: 961206090"
+      ]
+    },
+    {
+      "tag": "ubicacion",
+      "patterns": [
+        "Donde se encuentra el centro?",
+        "Cual es la direccion del centro?",
+        "ubicacion"
+      ],
+      "responses": [
+        "Nuestro centro esta ubicado en:\n- Ciudad: TORRENT\n- Calle: CL CORONA D'ARAGO 1\n- Codigo Postal: 46900"
+      ]
+    },
+    {
+      "tag": "cursos",
+      "patterns": [
+        "Que cursos ofrece el centro?",
+        "Que programas educativos tienen?",
+        "cursos disponibles"
+      ],
+      "responses": [
+        "En nuestro centro ofrecemos los siguientes cursos y programas educativos:\n- Bachillerato\n- Formacion Profesional (FP)\n- Grado Superior en Desarrollo de Aplicaciones Multiplataforma\n- Inteligencia Artificial y Big Data\n- Grado Superior en Administracion y Finanzas\n- Grado Superior en Desarrollo de Aplicaciones Web"
+      ]
+    },
+    {
+      "tag": "fechas_matricula",
+      "patterns": [
+        "Cuando son las fechas de matricula?",
+        "Cuando puedo matricularme?",
+        "fechas de matricula"
+      ],
+      "responses": [
+        "Las fechas de matricula suelen ser durante los meses de junio y julio. Para mas informacion, consulta nuestro sitio web o contacta con la secretaria."
+      ]
+    },
+    {
+      "tag": "horarios_clases",
+      "patterns": [
+        "Cual es el horario de las clases?",
+        "A que hora comienzan las clases?",
+        "horarios"
+      ],
+      "responses": [
+        "Las clases empiezan a las 8:00 a.m. y terminan a las 3:00 p.m. Los horarios pueden variar segun el curso y la asignatura."
+      ]
+    },
+    {
+      "tag": "pago_tasas",
+      "patterns": [
+        "Como puedo pagar las tasas del centro?",
+        "Cual es el procedimiento para pagar las tasas?",
+        "pago tasas"
+      ],
+      "responses": [
+        "El pago de tasas se realiza a traves de nuestra plataforma online. Para mas detalles, visita el apartado de 'Tasas y Pagos' en nuestro sitio web."
+      ]
+    },
+    {
+      "tag": "web_resources",
+      "patterns": [
+        "Donde puedo encontrar recursos educativos?",
+        "Tienen recursos online?",
+        "recursos educativos"
+      ],
+      "responses": [
+        "Puedes encontrar diversos recursos educativos en los siguientes enlaces:\n- http://www.dmae.upct.es/~juan/matematicas.htm\n- http://www.ceice.gva.es/doc046/gen/es/tasas.asp?idf=TITULOS\n- https://ceice.gva.es/es/web/formacion-profesional/pruebas-de-acceso-a-ciclos-formativos\n- http://www.apuntesmareaverde.org.es/\n- https://www.youtube.com/watch?v=Oy_e4N-vMvM"
+      ]
+    },
+    {
+      "tag": "actividades_extra",
+      "patterns": [
+        "Que actividades extraescolares ofrecen?",
+        "Que actividades fuera del aula hay?",
+        "actividades extra"
+      ],
+      "responses": [
+        "Ofrecemos varias actividades extraescolares, tales como:\n- Talleres de programacion\n- Clubes de robotica\n- Actividades deportivas\n- Programas de voluntariado\nConsulta el calendario de actividades para mas detalles."
+      ]
+    }
+  ]
+}
