@@ -1,0 +1,144 @@
+{
+  "intents": [
+    {
+      "tag": "correo",
+      "patterns": [
+        "¿Cuál es el correo donde los contacto?",
+        "¿Puedo enviar un correo a esa dirección?",
+        "¿Me puedes dar otro correo para escribir?",
+        "¿Cómo puedo enviarles un mensaje por email?",
+        "¿Tienen una dirección de correo para dudas?",
+        "¿Este es el correo correcto para escribirles?",
+        "¿Hay otro correo para soporte?",
+        "¿Cuál es el correo para consultas?",
+        "¿Puedo contactarlos por email?",
+        "¿Dónde puedo escribir para recibir información?"
+      ],
+      "responses": [
+        "Correo: 46019015@edu.gva.es\nE-mail: 46019015.secretaria@edu.gva.es"
+      ]
+    },
+    {
+      "tag": "fax",
+      "patterns": [
+        "¿Puedo enviar un fax a esta dirección?",
+        "¿Tienen otro número de fax?",
+        "¿Me puedes decir cómo enviar un fax?",
+        "¿Dónde se encuentra el número de fax?",
+        "¿El fax es para envíos de documentos?",
+        "¿Qué tipo de documentos puedo enviar por fax?",
+        "¿Puedo recibir un fax en este número?",
+        "¿Es este el fax correcto para enviar?",
+        "¿Dónde envío mi fax?",
+        "¿El fax está disponible las 24 horas?",
+        "¿Cuál es el número de fax para contacto?"
+      ],
+      "responses": [
+        "FAX : 961206091"
+      ]
+    },
+    {
+      "tag": "telefono",
+      "patterns": [
+        "¿Me puedes dar un teléfono de contacto?",
+        "¿Cuál es el número para comunicarse?",
+        "¿Cómo puedo llamarles por teléfono?",
+        "¿Puedo hablar con alguien por teléfono?",
+        "¿Tienen líneas abiertas para consultas?",
+        "¿Este es su número de atención al cliente?",
+        "¿Puedo llamarlos para resolver dudas?",
+        "¿Qué debo hacer para hablar con alguien?",
+        "¿El número es válido para emergencias?",
+        "¿Tienen líneas telefónicas disponibles en todo momento?",
+        "¿Cuál es el número de teléfono para contacto?"
+      ],
+      "responses": [
+        "Telefono : 961206090"
+      ]
+    },
+    {
+      "tag": "paginas web",
+      "patterns": [
+        "¿Dónde puedo ver sus sitios oficiales?",
+        "¿Tienen alguna página web de recursos?",
+        "¿Cómo encuentro más información online?",
+        "¿Dónde puedo acceder a su contenido web?",
+        "¿Tienen una página oficial?",
+        "¿Me puedes dar un enlace con más detalles?",
+        "¿Puedo encontrar sus recursos en línea?",
+        "¿Me puedes mostrar páginas relacionadas?",
+        "¿Qué sitios web debo visitar?",
+        "¿Cómo puedo obtener más detalles a través de internet?"
+      ],
+      "responses": [
+        "http://www.dmae.upct.es/~juan/matematicas.htm",
+        "https://areatablet.wordpress.com/",
+        "http://www.ceice.gva.es/doc046/gen/es/tasas.asp?idf=TITULOS",
+        "https://ceice.gva.es/es/web/formacion-profesional/pruebas-de-acceso-a-ciclos-formativos",
+        "https://media.upv.es/#/catalog/channel/eda03965-19d6-1a4e-abaf-cf5b04ce1a6e",
+        "http://www.intersindical.org/escola/activitat/9081",
+        "https://portal.edu.gva.es/46019015/",
+        "http://cefire.edu.gva.es/sfp/index.php?usuario=formacion",
+        "http://www.ceice.gva.es/doc046/gen/val/tasas.asp?idf = ADMIN",
+        "http://www.apuntesmareaverde.org.es/"
+      ]
+    },
+    {
+      "tag": "calle",
+      "patterns": [
+        "¿Qué calle debo buscar?",
+        "¿Dónde se encuentra esta calle?",
+        "¿Puedo encontrar la calle en el mapa?",
+        "¿Está cerca de otras calles conocidas?",
+        "¿A qué calle debo dirigirme?",
+        "¿Cuál es el nombre de la calle donde están?",
+        "¿Esta es la calle correcta para llegar?",
+        "¿Está en una zona residencial?",
+        "¿Cómo puedo encontrar la calle en el GPS?",
+        "¿Cuál es el acceso más cercano a esta calle?",
+        "¿Esta calle es parte de la ubicación del centro?"
+      ],
+      "responses": [
+        "Calle : CL CORONA D'ARAGO 1"
+      ]
+    },
+    {
+      "tag": "ciudad",
+      "patterns": [
+        "¿En qué ciudad están localizados?",
+        "¿Cuál es el nombre de la ciudad?",
+        "¿Dónde se encuentra su sede?",
+        "¿Cómo se llama la ciudad?",
+        "¿En qué parte de la ciudad están?",
+        "¿Dónde puedo encontrarlos en la ciudad?",
+        "¿Puedo llegar a la ciudad fácilmente?",
+        "¿Es esta una ciudad grande?",
+        "¿Está en el centro de la ciudad?",
+        "¿Puedo llegar en transporte público?",
+        "¿Este es el lugar de la sede en la ciudad?"
+      ],
+      "responses": [
+        "Ciutat : TORRENT"
+      ]
+    },
+    {
+      "tag": "codigo postal",
+      "patterns": [
+        "¿Cómo puedo saber el código postal?",
+        "¿Cuál es el código postal de esta área?",
+        "¿Dónde se encuentra este código postal?",
+        "¿Puedo encontrarlo fácilmente?",
+        "¿Cómo puedo verificar el código postal?",
+        "¿Este es el código postal correcto?",
+        "¿Está en el código postal 46900?",
+        "¿Cómo llego a la zona con este código?",
+        "¿Puedo encontrar el código postal en un mapa?",
+        "¿Hay alguna otra forma de saber el código postal?",
+        "¿Este es el código postal para la ubicación?"
+      ],
+      "responses": [
+        "Codi Postal : 46900"
+      ]
+    }
+  ]
+}

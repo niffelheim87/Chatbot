@@ -1,0 +1,117 @@
+{
+  "intents": [
+    {
+      "tag": "contacto",
+      "patterns": [
+        "contacto"
+      ],
+      "responses": [
+        "Correo: 46019015@edu.gva.es\nFAX : 961206091\nE-mail: 46019015.secretaria@edu.gva.es\nTelefono : 961206090"
+      ]
+    },
+    {
+      "tag": "correo",
+      "patterns": [
+        "correo"
+      ],
+      "responses": [
+        "Correo: 46019015@edu.gva.es\nE-mail: 46019015.secretaria@edu.gva.es"
+      ]
+    },
+    {
+      "tag": "fax",
+      "patterns": [
+        "fax"
+      ],
+      "responses": [
+        "FAX : 961206091"
+      ]
+    },
+    {
+      "tag": "telefono",
+      "patterns": [
+        "telefono"
+      ],
+      "responses": [
+        "Telefono : 961206090"
+      ]
+    },
+    {
+      "tag": "paginas web",
+      "patterns": [
+        "¿Qué información hay sobre páginas web?"
+      ],
+      "responses": [
+        "http://www.dmae.upct.es/~juan/matematicas.htm",
+        "https://areatablet.wordpress.com/",
+        "http://www.ceice.gva.es/doc046/gen/es/tasas.asp?idf=TITULOS",
+        "https://ceice.gva.es/es/web/formacion-profesional/pruebas-de-acceso-a-ciclos-formativos",
+        "https://media.upv.es/#/catalog/channel/eda03965-19d6-1a4e-abaf-cf5b04ce1a6e",
+        "http://www.intersindical.org/escola/activitat/9081",
+        "https://portal.edu.gva.es/46019015/",
+        "http://cefire.edu.gva.es/sfp/index.php?usuario=formacion",
+        "http://www.ceice.gva.es/doc046/gen/val/tasas.asp?idf = ADMIN",
+        "http://www.apuntesmareaverde.org.es/",
+        "http://www.ceice.gva.es/doc046/gen/val/tasas.asp?idf=TITULOS",
+        "http://librosmareaverde.tk/",
+        "http://recursostic.educacion.es/secundaria/edad/",
+        "http://capileiraticrecursos.wikispaces.com/",
+        "http://www.factoriadeltutor.com",
+        "http://www.competenciasbasicashuelva.net/index.php?option=com_content&view=article&id=58&Itemid=28",
+        "http://www.ceice.gva.es/doc046/gen/es/tasas.asp?idf=ADMIN",
+        "https://ceice.gva.es/doc046/gen/es/tasas.asp?idf=PRUEBAS",
+        "https://ceice.gva.es/va/web/formacion-profesional/subvencions-alumnat-fp",
+        "https://www.youtube.com/watch?v=Oy_e4N-vMvM",
+        "https://www.docv.gva.es/datos/2015/11/18/pdf/2015_9263.pdf",
+        "http://www.ceice.gva.es/doc046/gen/val/tasas.asp?idf=ADMIN",
+        "http://www.ceice.gva.es/va/web/formacion-profesional/presentacion-y-calendario",
+        "http://es.slideshare.net/diarca24/cmo-programar-y-evaluar-por-competencias-presentation"
+      ]
+    },
+    {
+      "tag": "ubicacion",
+      "patterns": [
+        "ubicacion"
+      ],
+      "responses": [
+        "Ciutat : TORRENT\nCalle : CL CORONA D'ARAGO 1\nCodi Postal : 46900"
+      ]
+    },
+    {
+      "tag": "calle",
+      "patterns": [
+        "calle"
+      ],
+      "responses": [
+        "Calle : CL CORONA D'ARAGO 1"
+      ]
+    },
+    {
+      "tag": "ciudad",
+      "patterns": [
+        "ciudad"
+      ],
+      "responses": [
+        "Ciutat : TORRENT"
+      ]
+    },
+    {
+      "tag": "codigo postal",
+      "patterns": [
+        "codigo postal"
+      ],
+      "responses": [
+        "Codi Postal : 46900"
+      ]
+    },
+    {
+      "tag": "cursos",
+      "patterns": [
+        "cursos"
+      ],
+      "responses": [
+        "PREMIOS De FP\nBatxillerat\nGrado Superior\nGrau Superior Desenvolupament d'Aplicacions Multiplataforma\nIntelligncia Artificial i Big data\n2 ESO\nGrau Superior\n3 ESO\n4 ESO\nGrau Superior Administraci i Finances\nGrau Superior Desenvolupament d'Aplicacions Web"
+      ]
+    }
+  ]
+}
