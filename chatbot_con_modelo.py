@@ -16,7 +16,7 @@ from datetime import datetime
 HISTORIAL_FILE = "historial.json"
 
 # Descargar recursos de NLTK
-nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('wordnet')
 
 # Cargar el modelo
