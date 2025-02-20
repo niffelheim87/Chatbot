@@ -1,4 +1,4 @@
-# Chatbot para el IES Serra Perenxisa
+# Chatbot sobre el IES Serra Perenxisa
 
 ## Descripción
 
