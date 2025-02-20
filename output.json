@@ -111,45 +111,21 @@
       ]
     },
     {
-      "tag": "calle",
+      "tag": "ubicacion",
       "patterns": [
-        "¿Cuál es la calle del IES Serra Perenxisa?",
-        "¿Dónde está ubicado el instituto?",
-        "¿Cómo se llama la calle donde está el centro?",
-        "¿Me puedes decir la dirección del instituto?",
-        "¿Qué nombre tiene la calle del IES Serra Perenxisa?",
-        "¿Dónde está la entrada principal del instituto?",
-        "¿Puedo saber la dirección completa del centro?",
-        "¿En qué calle se encuentra el IES Serra Perenxisa?",
-        "¿Cuál es la dirección para llegar al instituto?",
-        "¿Cómo puedo encontrar la calle del instituto en el GPS?",
-        "¿Qué calle debo buscar para llegar al IES Serra Perenxisa?"
-      ],
-      "responses": [
-        "La calle del IES Serra Perenxisa es: CL CORONA D'ARAGO 1."
-      ]
-    },
-    {
-      "tag": "poblacion",
-      "patterns": [
+        "¿Dónde está ubicado el IES Serra Perenxisa?",
+        "¿Cuál es la dirección del instituto?",
+        "¿Cómo puedo encontrar el instituto?",
         "¿En qué población se encuentra el IES Serra Perenxisa?",
         "¿Cuál es el nombre de la población donde está el instituto?",
-        "¿Dónde está ubicado el centro?",
         "¿En qué localidad está el IES Serra Perenxisa?",
-        "¿Cómo se llama la población del instituto?",
-        "¿El IES Serra Perenxisa está en una ciudad o pueblo?",
-        "¿Dónde está el instituto dentro de la población?",
-        "¿En qué municipio está ubicado el centro?",
-        "¿Puedo saber la población del instituto?",
-        "¿Está en Torrent el IES Serra Perenxisa?"
-      ],
-      "responses": [
-        "El IES Serra Perenxisa se encuentra en la población de Torrent."
-      ]
-    },
-    {
-      "tag": "codigo postal",
-      "patterns": [
+        "¿Qué nombre tiene la calle del instituto?",
+        "¿Cómo se llama la calle donde está el centro?",
+        "¿Qué calle debo buscar para llegar al instituto?",
+        "¿Puedo saber la dirección exacta del instituto?",
+        "¿En qué municipio está el IES Serra Perenxisa?",
+        "¿Está en Torrent el instituto?",
+        "¿Cómo se llama la población y la calle del instituto?",
         "¿Cuál es el código postal del IES Serra Perenxisa?",
         "¿Qué código postal corresponde a esta ubicación?",
         "¿Me puedes decir el código postal de esta zona?",
@@ -162,7 +138,7 @@
         "¿Qué código postal tiene el IES Serra Perenxisa?"
       ],
       "responses": [
-        "El código postal del IES Serra Perenxisa es: 46900."
+        "El IES Serra Perenxisa está ubicado en: CL CORONA D'ARAGO 1, en la población de Torrent. Código postal: 46900."
       ]
     }
   ]
