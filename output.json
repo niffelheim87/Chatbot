@@ -3,141 +3,166 @@
     {
       "tag": "correo",
       "patterns": [
-        "¿Cuál es el correo donde los contacto?",
-        "¿Puedo enviar un correo a esa dirección?",
-        "¿Me puedes dar otro correo para escribir?",
-        "¿Cómo puedo enviarles un mensaje por email?",
-        "¿Tienen una dirección de correo para dudas?",
-        "¿Este es el correo correcto para escribirles?",
-        "¿Hay otro correo para soporte?",
-        "¿Cuál es el correo para consultas?",
-        "¿Puedo contactarlos por email?",
-        "¿Dónde puedo escribir para recibir información?"
+        "¿Cuál es su correo electrónico de contacto?",
+        "¿Me pueden proporcionar un email para escribirles?",
+        "¿Dónde puedo enviar un correo electrónico?",
+        "¿Tienen un correo para atención al cliente?",
+        "¿Cómo los contacto por email?",
+        "¿Cuál es su dirección de correo para soporte?",
+        "¿Puedo escribirles a algún correo?",
+        "¿Tienen un correo oficial?",
+        "¿Cuál es el email que usan para consultas?",
+        "¿Me pueden facilitar una dirección de email para dudas?",
+        "¿Tienen un correo donde pueda comunicarme?",
+        "¿Hay alguna dirección electrónica para contactarlos?",
+        "¿Me pueden dar su correo electrónico oficial?",
+        "¿Cómo envío un correo para información?",
+        "¿A qué email puedo escribir para resolver dudas?"
       ],
       "responses": [
-        "Correo: 46019015@edu.gva.es\nE-mail: 46019015.secretaria@edu.gva.es"
+        "E-mail: 46019015.secretaria@edu.gva.es"
       ]
     },
     {
       "tag": "fax",
       "patterns": [
-        "¿Puedo enviar un fax a esta dirección?",
-        "¿Tienen otro número de fax?",
-        "¿Me puedes decir cómo enviar un fax?",
-        "¿Dónde se encuentra el número de fax?",
-        "¿El fax es para envíos de documentos?",
-        "¿Qué tipo de documentos puedo enviar por fax?",
-        "¿Puedo recibir un fax en este número?",
-        "¿Es este el fax correcto para enviar?",
-        "¿Dónde envío mi fax?",
-        "¿El fax está disponible las 24 horas?",
-        "¿Cuál es el número de fax para contacto?"
+        "¿Cuál es su número de fax?",
+        "¿Me pueden proporcionar un número de fax para enviar documentos?",
+        "¿Tienen un fax para contacto?",
+        "¿Dónde puedo enviar un documento por fax?",
+        "¿Puedo usar su número de fax para comunicarme?",
+        "¿Cómo envío un fax a su institución?",
+        "¿Es este el fax correcto para enviar documentos?",
+        "¿Tienen un fax oficial para consultas?",
+        "¿Puedo recibir información a través de su fax?",
+        "¿El fax está operativo las 24 horas?",
+        "¿Cuál es el número de fax disponible?",
+        "¿Puedo comunicarme con ustedes por fax?",
+        "¿Dónde puedo encontrar su número de fax?",
+        "¿Tienen un servicio de fax activo?",
+        "¿Me podrían dar su número de fax para enviar algo?"
       ],
       "responses": [
         "FAX : 961206091"
       ]
     },
     {
-      "tag": "telefono",
+      "tag": "horario",
       "patterns": [
-        "¿Me puedes dar un teléfono de contacto?",
-        "¿Cuál es el número para comunicarse?",
-        "¿Cómo puedo llamarles por teléfono?",
-        "¿Puedo hablar con alguien por teléfono?",
-        "¿Tienen líneas abiertas para consultas?",
-        "¿Este es su número de atención al cliente?",
-        "¿Puedo llamarlos para resolver dudas?",
-        "¿Qué debo hacer para hablar con alguien?",
-        "¿El número es válido para emergencias?",
-        "¿Tienen líneas telefónicas disponibles en todo momento?",
-        "¿Cuál es el número de teléfono para contacto?"
+        "¿Cuál es su horario de atención?",
+        "¿Me pueden informar sobre su horario?",
+        "¿A qué hora están disponibles?",
+        "¿Cuál es el horario de la secretaría?",
+        "¿Cuándo puedo ir en persona a la secretaría?",
+        "¿Tienen horario de mañana y tarde?",
+        "¿Qué días y horas atienden al público?",
+        "¿A qué hora abren por la mañana?",
+        "¿Cuándo están disponibles por la tarde?",
+        "¿Qué horario tienen para atención presencial?",
+        "¿Están disponibles en las tardes?",
+        "¿Cuáles son las horas de oficina?",
+        "¿Cuándo puedo contactar con la secretaría en persona?",
+        "¿Me pueden decir su horario completo?",
+        "¿Qué horario tienen para atención al público?"
       ],
       "responses": [
-        "Telefono : 961206090"
+        "Horario de atención:\nMañanas: de lunes a viernes de 9:00 a 14:00\nTardes: martes y miércoles de 16:00 a 19:00"
       ]
     },
     {
-      "tag": "paginas web",
+      "tag": "telefono",
       "patterns": [
-        "¿Dónde puedo ver sus sitios oficiales?",
-        "¿Tienen alguna página web de recursos?",
-        "¿Cómo encuentro más información online?",
-        "¿Dónde puedo acceder a su contenido web?",
-        "¿Tienen una página oficial?",
-        "¿Me puedes dar un enlace con más detalles?",
-        "¿Puedo encontrar sus recursos en línea?",
-        "¿Me puedes mostrar páginas relacionadas?",
-        "¿Qué sitios web debo visitar?",
-        "¿Cómo puedo obtener más detalles a través de internet?"
+        "¿Cuál es el teléfono de la secretaría del IES Serra Perenxisa?",
+        "¿Me pueden proporcionar un número para contactar con la secretaría?",
+        "¿Tienen un teléfono disponible para consultas en la secretaría?",
+        "¿Cómo puedo comunicarme con la secretaría por teléfono?",
+        "¿Puedo llamar a la secretaría para hacer preguntas?",
+        "¿Me pueden dar el número de contacto de la secretaría?",
+        "¿Cuál es el número para hablar con alguien de la secretaría?",
+        "¿El IES Serra Perenxisa tiene un teléfono para atención al público?",
+        "¿Dónde puedo encontrar el teléfono de contacto de la secretaría?",
+        "¿Puedo llamar directamente a la secretaría para información?",
+        "¿Me pueden indicar su número de teléfono para consultas administrativas?",
+        "¿Cuál es el número de atención telefónica de la secretaría del centro?",
+        "¿Puedo resolver mis dudas llamando a la secretaría del instituto?",
+        "¿Tienen una línea telefónica para contactar con la secretaría?",
+        "¿Cómo puedo comunicarme con la secretaría del IES Serra Perenxisa por teléfono?"
       ],
       "responses": [
-        "http://www.dmae.upct.es/~juan/matematicas.htm",
-        "https://areatablet.wordpress.com/",
-        "http://www.ceice.gva.es/doc046/gen/es/tasas.asp?idf=TITULOS",
-        "https://ceice.gva.es/es/web/formacion-profesional/pruebas-de-acceso-a-ciclos-formativos",
-        "https://media.upv.es/#/catalog/channel/eda03965-19d6-1a4e-abaf-cf5b04ce1a6e",
-        "http://www.intersindical.org/escola/activitat/9081",
-        "https://portal.edu.gva.es/46019015/",
-        "http://cefire.edu.gva.es/sfp/index.php?usuario=formacion",
-        "http://www.ceice.gva.es/doc046/gen/val/tasas.asp?idf = ADMIN",
-        "http://www.apuntesmareaverde.org.es/"
+        "Teléfono: 961206090"
+      ]
+    },
+    {
+      "tag": "web",
+      "patterns": [
+        "¿Cuál es la página web oficial del IES Serra Perenxisa?",
+        "¿Dónde puedo encontrar información oficial del instituto?",
+        "¿Tienen un sitio web oficial?",
+        "¿Cómo puedo acceder a la página web del IES Serra Perenxisa?",
+        "¿Puedo visitar su web oficial para más detalles?",
+        "¿Cuál es el enlace al sitio oficial del instituto?",
+        "¿Me puedes proporcionar la página oficial del IES Serra Perenxisa?",
+        "¿Dónde está su página web oficial?",
+        "¿Tienen un sitio web para consultar información?",
+        "¿Dónde puedo encontrar su página oficial?"
+      ],
+      "responses": [
+        "La página web oficial del IES Serra Perenxisa es: https://portal.edu.gva.es/iesserraperenxisa/"
       ]
     },
     {
       "tag": "calle",
       "patterns": [
-        "¿Qué calle debo buscar?",
-        "¿Dónde se encuentra esta calle?",
-        "¿Puedo encontrar la calle en el mapa?",
-        "¿Está cerca de otras calles conocidas?",
-        "¿A qué calle debo dirigirme?",
-        "¿Cuál es el nombre de la calle donde están?",
-        "¿Esta es la calle correcta para llegar?",
-        "¿Está en una zona residencial?",
-        "¿Cómo puedo encontrar la calle en el GPS?",
-        "¿Cuál es el acceso más cercano a esta calle?",
-        "¿Esta calle es parte de la ubicación del centro?"
+        "¿Cuál es la calle del IES Serra Perenxisa?",
+        "¿Dónde está ubicado el instituto?",
+        "¿Cómo se llama la calle donde está el centro?",
+        "¿Me puedes decir la dirección del instituto?",
+        "¿Qué nombre tiene la calle del IES Serra Perenxisa?",
+        "¿Dónde está la entrada principal del instituto?",
+        "¿Puedo saber la dirección completa del centro?",
+        "¿En qué calle se encuentra el IES Serra Perenxisa?",
+        "¿Cuál es la dirección para llegar al instituto?",
+        "¿Cómo puedo encontrar la calle del instituto en el GPS?",
+        "¿Qué calle debo buscar para llegar al IES Serra Perenxisa?"
       ],
       "responses": [
-        "Calle : CL CORONA D'ARAGO 1"
+        "La calle del IES Serra Perenxisa es: CL CORONA D'ARAGO 1."
       ]
     },
     {
-      "tag": "ciudad",
+      "tag": "poblacion",
       "patterns": [
-        "¿En qué ciudad están localizados?",
-        "¿Cuál es el nombre de la ciudad?",
-        "¿Dónde se encuentra su sede?",
-        "¿Cómo se llama la ciudad?",
-        "¿En qué parte de la ciudad están?",
-        "¿Dónde puedo encontrarlos en la ciudad?",
-        "¿Puedo llegar a la ciudad fácilmente?",
-        "¿Es esta una ciudad grande?",
-        "¿Está en el centro de la ciudad?",
-        "¿Puedo llegar en transporte público?",
-        "¿Este es el lugar de la sede en la ciudad?"
+        "¿En qué población se encuentra el IES Serra Perenxisa?",
+        "¿Cuál es el nombre de la población donde está el instituto?",
+        "¿Dónde está ubicado el centro?",
+        "¿En qué localidad está el IES Serra Perenxisa?",
+        "¿Cómo se llama la población del instituto?",
+        "¿El IES Serra Perenxisa está en una ciudad o pueblo?",
+        "¿Dónde está el instituto dentro de la población?",
+        "¿En qué municipio está ubicado el centro?",
+        "¿Puedo saber la población del instituto?",
+        "¿Está en Torrent el IES Serra Perenxisa?"
       ],
       "responses": [
-        "Ciutat : TORRENT"
+        "El IES Serra Perenxisa se encuentra en la población de Torrent."
       ]
     },
     {
       "tag": "codigo postal",
       "patterns": [
-        "¿Cómo puedo saber el código postal?",
-        "¿Cuál es el código postal de esta área?",
-        "¿Dónde se encuentra este código postal?",
-        "¿Puedo encontrarlo fácilmente?",
-        "¿Cómo puedo verificar el código postal?",
-        "¿Este es el código postal correcto?",
-        "¿Está en el código postal 46900?",
-        "¿Cómo llego a la zona con este código?",
-        "¿Puedo encontrar el código postal en un mapa?",
-        "¿Hay alguna otra forma de saber el código postal?",
-        "¿Este es el código postal para la ubicación?"
+        "¿Cuál es el código postal del IES Serra Perenxisa?",
+        "¿Qué código postal corresponde a esta ubicación?",
+        "¿Me puedes decir el código postal de esta zona?",
+        "¿Cómo puedo obtener el código postal del instituto?",
+        "¿Este es el código postal de Torrent?",
+        "¿Cuál es el código postal de la dirección del instituto?",
+        "¿En qué código postal está ubicado el IES Serra Perenxisa?",
+        "¿El código postal 46900 corresponde a esta área?",
+        "¿Puedo saber el código postal para enviar correspondencia?",
+        "¿Qué código postal tiene el IES Serra Perenxisa?"
       ],
       "responses": [
-        "Codi Postal : 46900"
+        "El código postal del IES Serra Perenxisa es: 46900."
       ]
     }
   ]
